@@ -57,5 +57,4 @@ student-quiz-website/
 └── README.md
 
 ## Video 
-
-https://github.com/user-attachments/assets/445618f8-ed38-47bc-93b3-87eac8926695
+[Watch the video](https://github.com/user-attachments/assets/445618f8-ed38-47bc-93b3-87eac8926695)
